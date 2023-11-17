@@ -1,6 +1,5 @@
 # OpenDataHub_Challenge7
-
-- File di configurazione: 
+File di configurazione: 
 api_1:
   endpoint: "https://mobility.api.com"
   field: "coords"
